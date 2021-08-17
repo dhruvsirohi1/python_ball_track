@@ -3,7 +3,7 @@ dataChannel Stream
 
 This is an implementation of a simple Client-Server module that can be used in calibration of various camera based systems.
 
-AIORTC library is utilized for establishing netword protocol(TCP). Exclusively uses a RTCDataChannel for bi-didectional transfer of frames as 2-d arrays wrapped by pickle.
+AIORTC library is utilized for establishing network protocol(TCP). Exclusively uses a RTCDataChannel for bi-didectional transfer of frames as 2-d arrays wrapped by pickle.
 
 
 #### Folder Contents:
