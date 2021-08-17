@@ -6,7 +6,7 @@ This is an implementation of a simple Client-Server module that can be used in c
 AIORTC library is utilized for establishing netword protocol(TCP). Exclusively uses a RTCDataChannel for bi-didectional transfer of frames as 2-d arrays wrapped by pickle.
 
 
-####Folder Contents:
+#### Folder Contents:
 
 <ol> 
 <li>Client: python script, Dockerfile, tests</li>
